@@ -2,11 +2,10 @@
 
 <ul>
 <li>👀 I’m an experienced Oracle Database Administrator specializing in clinical research for biotechnology</li>
-<li>I had the pleasure of taking some time away from tech to travel, teach and help build a small business</li>
+<li>✨ I had the pleasure of taking some time away from tech to travel, teach and help build a small business</li>
 <li>🌱 As part of my continuous education, I am currently studying java, python and Android development</li>
 <li>📫 You can reach me at david@endry.net</li>
 </ul>
-https://images.app.goo.gl/41FtpgpEgJsfbXzz5
 
 
 <!---
